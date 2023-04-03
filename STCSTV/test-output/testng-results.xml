@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="17" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-03T04:56:53 EET" name="Default suite" finished-at="2023-04-03T04:59:14 EET" duration-ms="141379">
+    <groups>
+    </groups>
+    <test started-at="2023-04-03T04:56:53 EET" name="Default test" finished-at="2023-04-03T04:59:14 EET" duration-ms="141379">
+      <class name="com.testng.Subscription">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:56:52 EET" name="start" finished-at="2023-04-03T04:56:53 EET" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:56:53 EET" name="setUp" finished-at="2023-04-03T04:56:57 EET" duration-ms="4803" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForUAEinArabic(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClassicPackForUAEinArabic(java.lang.reflect.Method)[pri:1, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:56:57 EET" name="ClassicPackForUAEinArabic" finished-at="2023-04-03T04:56:58 EET" duration-ms="852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForUAEinArabic(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClassicPackForUAEinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:56:58 EET" name="after" finished-at="2023-04-03T04:56:59 EET" duration-ms="405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForUAEinArabic(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=ClassicPackForUAEinArabic status=SUCCESS method=Subscription.ClassicPackForUAEinArabic(java.lang.reflect.Method)[pri:1, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:56:59 EET" name="setUp" finished-at="2023-04-03T04:57:03 EET" duration-ms="4286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForUAEinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LitePackForUAEinArabic(java.lang.reflect.Method)[pri:2, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:03 EET" name="LitePackForUAEinArabic" finished-at="2023-04-03T04:57:04 EET" duration-ms="1271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForUAEinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LitePackForUAEinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:04 EET" name="after" finished-at="2023-04-03T04:57:04 EET" duration-ms="224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForUAEinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=LitePackForUAEinArabic status=SUCCESS method=Subscription.LitePackForUAEinArabic(java.lang.reflect.Method)[pri:2, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:04 EET" name="setUp" finished-at="2023-04-03T04:57:08 EET" duration-ms="3822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForUAEinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PremPackForUAEinArabic(java.lang.reflect.Method)[pri:3, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:08 EET" name="PremPackForUAEinArabic" finished-at="2023-04-03T04:57:09 EET" duration-ms="1190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForUAEinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PremPackForUAEinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:09 EET" name="after" finished-at="2023-04-03T04:57:10 EET" duration-ms="223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForUAEinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=PremPackForUAEinArabic status=SUCCESS method=Subscription.PremPackForUAEinArabic(java.lang.reflect.Method)[pri:3, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:10 EET" name="setUp" finished-at="2023-04-03T04:57:14 EET" duration-ms="4117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClassicPackForUAEinEnglish(java.lang.reflect.Method)[pri:4, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:14 EET" name="ClassicPackForUAEinEnglish" finished-at="2023-04-03T04:57:18 EET" duration-ms="4302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClassicPackForUAEinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:18 EET" name="after" finished-at="2023-04-03T04:57:18 EET" duration-ms="231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=ClassicPackForUAEinEnglish status=SUCCESS method=Subscription.ClassicPackForUAEinEnglish(java.lang.reflect.Method)[pri:4, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:18 EET" name="setUp" finished-at="2023-04-03T04:57:23 EET" duration-ms="4229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LitePackForUAEinEnglish(java.lang.reflect.Method)[pri:5, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:23 EET" name="LitePackForUAEinEnglish" finished-at="2023-04-03T04:57:25 EET" duration-ms="2646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LitePackForUAEinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:25 EET" name="after" finished-at="2023-04-03T04:57:25 EET" duration-ms="249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=LitePackForUAEinEnglish status=SUCCESS method=Subscription.LitePackForUAEinEnglish(java.lang.reflect.Method)[pri:5, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:25 EET" name="setUp" finished-at="2023-04-03T04:57:30 EET" duration-ms="4307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PremPackForUAEinEnglish(java.lang.reflect.Method)[pri:6, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:30 EET" name="PremPackForUAEinEnglish" finished-at="2023-04-03T04:57:32 EET" duration-ms="2321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PremPackForUAEinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:32 EET" name="after" finished-at="2023-04-03T04:57:32 EET" duration-ms="261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForUAEinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=PremPackForUAEinEnglish status=SUCCESS method=Subscription.PremPackForUAEinEnglish(java.lang.reflect.Method)[pri:6, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:32 EET" name="setUp" finished-at="2023-04-03T04:57:36 EET" duration-ms="3432" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClassicPackForJOinArabic(java.lang.reflect.Method)[pri:7, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:36 EET" name="ClassicPackForJOinArabic" finished-at="2023-04-03T04:57:37 EET" duration-ms="1428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClassicPackForJOinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:37 EET" name="after" finished-at="2023-04-03T04:57:37 EET" duration-ms="252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=ClassicPackForJOinArabic status=SUCCESS method=Subscription.ClassicPackForJOinArabic(java.lang.reflect.Method)[pri:7, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:37 EET" name="setUp" finished-at="2023-04-03T04:57:41 EET" duration-ms="3613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LitePackForJOinArabic(java.lang.reflect.Method)[pri:8, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:41 EET" name="LitePackForJOinArabic" finished-at="2023-04-03T04:57:43 EET" duration-ms="1489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LitePackForJOinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:43 EET" name="after" finished-at="2023-04-03T04:57:43 EET" duration-ms="250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=LitePackForJOinArabic status=SUCCESS method=Subscription.LitePackForJOinArabic(java.lang.reflect.Method)[pri:8, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:43 EET" name="setUp" finished-at="2023-04-03T04:57:47 EET" duration-ms="3986" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PremPackForJOinArabic(java.lang.reflect.Method)[pri:9, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:47 EET" name="PremPackForJOinArabic" finished-at="2023-04-03T04:57:48 EET" duration-ms="1293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PremPackForJOinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:48 EET" name="after" finished-at="2023-04-03T04:57:48 EET" duration-ms="216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForJOinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=PremPackForJOinArabic status=SUCCESS method=Subscription.PremPackForJOinArabic(java.lang.reflect.Method)[pri:9, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:48 EET" name="setUp" finished-at="2023-04-03T04:57:52 EET" duration-ms="3921" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClassicPackForJOinEnglish(java.lang.reflect.Method)[pri:10, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:52 EET" name="ClassicPackForJOinEnglish" finished-at="2023-04-03T04:57:56 EET" duration-ms="3533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClassicPackForJOinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:56 EET" name="after" finished-at="2023-04-03T04:57:56 EET" duration-ms="230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=ClassicPackForJOinEnglish status=SUCCESS method=Subscription.ClassicPackForJOinEnglish(java.lang.reflect.Method)[pri:10, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:57:56 EET" name="setUp" finished-at="2023-04-03T04:58:00 EET" duration-ms="3824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LitePackForJOinEnglish(java.lang.reflect.Method)[pri:11, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:00 EET" name="LitePackForJOinEnglish" finished-at="2023-04-03T04:58:02 EET" duration-ms="2591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LitePackForJOinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:02 EET" name="after" finished-at="2023-04-03T04:58:03 EET" duration-ms="277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=LitePackForJOinEnglish status=SUCCESS method=Subscription.LitePackForJOinEnglish(java.lang.reflect.Method)[pri:11, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:03 EET" name="setUp" finished-at="2023-04-03T04:58:07 EET" duration-ms="4075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PremPackForJOinEnglish(java.lang.reflect.Method)[pri:12, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:07 EET" name="PremPackForJOinEnglish" finished-at="2023-04-03T04:58:09 EET" duration-ms="2651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PremPackForJOinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:09 EET" name="after" finished-at="2023-04-03T04:58:10 EET" duration-ms="254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForJOinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=PremPackForJOinEnglish status=SUCCESS method=Subscription.PremPackForJOinEnglish(java.lang.reflect.Method)[pri:12, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:10 EET" name="setUp" finished-at="2023-04-03T04:58:18 EET" duration-ms="8447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClassicPackForOMinArabic(java.lang.reflect.Method)[pri:13, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:18 EET" name="ClassicPackForOMinArabic" finished-at="2023-04-03T04:58:21 EET" duration-ms="2734" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClassicPackForOMinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:21 EET" name="after" finished-at="2023-04-03T04:58:21 EET" duration-ms="244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=ClassicPackForOMinArabic status=SUCCESS method=Subscription.ClassicPackForOMinArabic(java.lang.reflect.Method)[pri:13, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:21 EET" name="setUp" finished-at="2023-04-03T04:58:25 EET" duration-ms="4047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LitePackForOMinArabic(java.lang.reflect.Method)[pri:14, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:25 EET" name="LitePackForOMinArabic" finished-at="2023-04-03T04:58:30 EET" duration-ms="4981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LitePackForOMinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:30 EET" name="after" finished-at="2023-04-03T04:58:30 EET" duration-ms="243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=LitePackForOMinArabic status=SUCCESS method=Subscription.LitePackForOMinArabic(java.lang.reflect.Method)[pri:14, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:30 EET" name="setUp" finished-at="2023-04-03T04:58:37 EET" duration-ms="6555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PremPackForOMinArabic(java.lang.reflect.Method)[pri:15, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:37 EET" name="PremPackForOMinArabic" finished-at="2023-04-03T04:58:40 EET" duration-ms="2567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PremPackForOMinArabic -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:40 EET" name="after" finished-at="2023-04-03T04:58:40 EET" duration-ms="249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForOMinArabic(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=PremPackForOMinArabic status=SUCCESS method=Subscription.PremPackForOMinArabic(java.lang.reflect.Method)[pri:15, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:40 EET" name="setUp" finished-at="2023-04-03T04:58:48 EET" duration-ms="8063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClassicPackForOMinEnglish(java.lang.reflect.Method)[pri:16, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:48 EET" name="ClassicPackForOMinEnglish" finished-at="2023-04-03T04:58:52 EET" duration-ms="4159" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClassicPackForOMinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:52 EET" name="after" finished-at="2023-04-03T04:58:52 EET" duration-ms="279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.ClassicPackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=ClassicPackForOMinEnglish status=SUCCESS method=Subscription.ClassicPackForOMinEnglish(java.lang.reflect.Method)[pri:16, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:52 EET" name="setUp" finished-at="2023-04-03T04:58:57 EET" duration-ms="4303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LitePackForOMinEnglish(java.lang.reflect.Method)[pri:17, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:58:57 EET" name="LitePackForOMinEnglish" finished-at="2023-04-03T04:59:05 EET" duration-ms="8309" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Lite Package Currency In Arabic Is Incorrect expected [/month] but found [USD/month]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Lite Package Currency In Arabic Is Incorrect expected [/month] but found [USD/month]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at com.testng.Subscription.LitePackForOMinEnglish(Subscription.java:524)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LitePackForOMinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:59:05 EET" name="after" finished-at="2023-04-03T04:59:05 EET" duration-ms="294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.LitePackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=LitePackForOMinEnglish status=FAILURE method=Subscription.LitePackForOMinEnglish(java.lang.reflect.Method)[pri:17, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:59:05 EET" name="setUp" finished-at="2023-04-03T04:59:11 EET" duration-ms="6054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PremPackForOMinEnglish(java.lang.reflect.Method)[pri:18, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:59:11 EET" name="PremPackForOMinEnglish" finished-at="2023-04-03T04:59:14 EET" duration-ms="2511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PremPackForOMinEnglish -->
+        <test-method is-config="true" signature="after(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:59:14 EET" name="after" finished-at="2023-04-03T04:59:14 EET" duration-ms="229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testng.Subscription.PremPackForOMinEnglish(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=PremPackForOMinEnglish status=SUCCESS method=Subscription.PremPackForOMinEnglish(java.lang.reflect.Method)[pri:18, instance:com.testng.Subscription@61386958] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.testng.Subscription@61386958]" started-at="2023-04-03T04:59:14 EET" name="end" finished-at="2023-04-03T04:59:14 EET" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.testng.Subscription -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
